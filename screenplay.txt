@@ -240,6 +240,7 @@ THIS IS A CHANGE BY BENNETT BUCHANAN, but now it is also a change by mason fish.
 He was quite a scare with his beard hanging low and uncommbed hair pointing in all directions.
 
 
+<<<<<<< HEAD
 
 Zee Narrating now...
 
@@ -312,7 +313,7 @@ JOE: Do you really think that Sylvain would take time out of his day to play a p
 
 There are sounds of agreement and disagreement throughout the group.
 While they stand around talking, the doors to the room close and we
-hear a locking sound.
+hear a locking and giggling sound.
 
 
 
@@ -386,3 +387,6 @@ Yes it was an awesome day. Losing hair over Git pull requests. :(
 holbertonschool.com in San Francisco
 wow
 
+=======
+Day 0 was awesome, indeed.
+>>>>>>> introduce a conflict with Praylin commit
