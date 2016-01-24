@@ -1,10 +1,11 @@
 A FIRST DAY AT HOLBERTON SCHOOL
-Steven Garcia Was here!!
+>>Steven Garcia Was here!!
 DAY 0
+Bilal is here!!!!!
 
 or
 
-GIT: you know you love it!
+To GIT or Not to GIT; That is the Question.
 
 Written by:
 
@@ -27,7 +28,7 @@ INT. HOLBERTON SCHOOL ENTRANCE - DAY
 
 DAVID smells bacon grilled cheese and realizes he is hungry.
 
-JANE: (Exclaming) Hi, you're David right? I recognize you from your picture on the Slack channel!
+JANE: (Exclaiming) Hi, you're David right?! I recognize you from your picture on the Slack channel!
 
 DAVID: Yes, indeed. Jane and Harry, right? Have you guys been here long?
 
@@ -111,12 +112,22 @@ Same!
 
 Integer turpis turpis, consequat id auctor at, elementum ut neque. Donec eleifend, ante a lobortis aliquam, ligula sapien gravida nunc, et ullamcorper ante tellus eu eros. Ut imperdiet tempus ipsum, id tincidunt velit laoreet id. Donec facilisis justo eget aliquet malesuada. Nullam accumsan justo eget felis placerat, non aliquam neque lacinia. Proin venenatis turpis sed fringilla ultrices. Pellentesque fermentum ipsum vitae ante venenatis vehicula. Nulla tristique metus in posuere semper. Nam volutpat sed dui sed pharetra. Phasellus eleifend libero a sapien posuere suscipit. Etiam vel tristique purus. Morbi eget tincidunt leo. Mauris aliquet fringilla felis id semper.
 
+MARINE
+Who's Amy?
+
 FADE OUT, CURAIN GOES DOWN :).
 
 Finally, everyone shouted... "We had an awesome day.... Amazing days ahead..."
 
 THE END
 
+Changed by William McCann right now.
 
-THIS IS A CHANGE BY BENNETT BUCHANAN, but now it is also a change by mason fish. "random text"
 
+THIS IS A CHANGE BY BENNETT BUCHANAN, but now it is also a change by mason fish. "random text”. And now, this is yet another change by Bennett :). Thanks for the comment William, this is a great update to the play!
+
+Some twist to the story: JAMES a young app developer... Hacking away at some codework in the middle of the night, Coffee on one side of the very unkept desk and a mobile device on the other. 
+He was quite a scare with his beard hanging low and uncommbed hair pointing in all directions.
+
+
+Day 0 was awesome, indeed.
