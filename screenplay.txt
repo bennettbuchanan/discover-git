@@ -241,6 +241,7 @@ He was quite a scare with his beard hanging low and uncommbed hair pointing in a
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Zee Narrating now...
 
@@ -390,3 +391,6 @@ wow
 =======
 Day 0 was awesome, indeed.
 >>>>>>> introduce a conflict with Praylin commit
+=======
+Day 0 was awesome, indeed.
+>>>>>>> fe253365861c6cf141cb3d80ddbba9e2f281ab17
